@@ -1,15 +1,12 @@
-import { useState } from 'react'
 import './App.css'
-import Card from './assets/components/Card'
+import Form from './components/Form'
 
 function App() {
 
-  const nombre = 'Juan'
+
   return (
     <div className="App">
-      <h1>Carga de estudiantes</h1>
-      <form></form>
-      <Card nombre= {nombre}/>
+      <Form/>
     </div>
   )
 }

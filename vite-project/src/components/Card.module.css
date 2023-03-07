@@ -1,0 +1,13 @@
+.card{
+
+    color: black;
+    border-style: dashed;
+    height: 200px;
+    border: solid gray;
+    border-radius: 2rem;
+    background-color: gainsboro;
+    padding: 2rem;
+    margin: 1rem;
+    
+
+}
